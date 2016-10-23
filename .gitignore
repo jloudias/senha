@@ -1,0 +1,6 @@
+#Exclude .htaccess
+.htaccess
+
+#Exclude Bootstrap
+css/
+js/
